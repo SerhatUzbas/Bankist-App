@@ -7,3 +7,6 @@ Also, this project demonstrates how to make slider components, sticky navigation
 Codes are written by me, but the project is not belongs to me.
 
 This is Jonas Schmedtmann's project which is created for learning purposes.
+
+
+You can check the app via : https://serhat-bankist.surge.sh/
