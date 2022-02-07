@@ -1,0 +1,15 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  },
+  "scripts": {
+    "devserver": "live-server"
+  },
+  "author": "Serhat",
+  "license": "ISC"
+}
